@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Lohainy Silva 👋
 
-<!--
-**lohainyoffice-glitch/lohainyoffice-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Junior Data Analyst passionate about turning data into business insights.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Tableau
+- Excel
+- Data Analysis
+- KPI Monitoring
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 📍 Based in Oeiras, Portugal
+- 🎓 Data Analytics Student at TripleTen
+- 📈 Interested in Data Analysis, Business Intelligence, and Data Visualization
+- 🔍 Passionate about solving business problems with data
+- 🌱 Currently improving my skills in Python, SQL, Tableau, and Excel
+
+⭐ Feel free to explore my repositories and follow my journey in Data Analytics!

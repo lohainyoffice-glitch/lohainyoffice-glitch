@@ -10,6 +10,7 @@
 - Data Analysis
 - KPI Monitoring
 - Data Visualization
+- Power BI
 
 ## 🚀 About Me
 
